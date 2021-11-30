@@ -24,7 +24,7 @@ let kelvin = {
 - [Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
 
 ### Blog Postings 
-- [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
+- [I'm wasting my life](https://li-kelvin.github.io/blog/posts/11-30-2021/)  <span style="color:grey">*11/30/2021*</span>.
 - [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
 - [Siddhartha](https://li-kelvin.github.io/blog/posts/siddhartha/)  <span style="color:grey">*by Herman Hesse*</span>.
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
