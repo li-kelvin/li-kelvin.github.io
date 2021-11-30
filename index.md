@@ -39,7 +39,7 @@ let kelvin = {
 
 ### Book Summary 
 - [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
-- [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Dale Carnegie*</span>.
+- [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
 - [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">*by Herman Hesse*</span>.
 - [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
 - [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">*by Robert Greene*</span>.
