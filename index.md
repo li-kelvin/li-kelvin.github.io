@@ -30,12 +30,12 @@ let kelvin = {
 4. Fuck Everyone  
 - everything for my 17 year old self
 
-### Academia
-- [Systems Research Artifacts](https://sysartifacts.github.io/)
-- [OSDI Proceedings](https://www.usenix.org/publications/proceedings/OSDI)
-- [Conference Dates](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
-- [the morning paper](https://blog.acolyer.org/)
-- [Matt Might](https://matt.might.net/articles/)
+### Academia/Projects
+- [Kobe Bryant Shot Selection](https://www.kaggle.com/likelvin/shot-selection)
+- [NBA Salary Predictor](https://www.kaggle.com/likelvin/nba-salary-prediction-w-regression-model)
+- [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
+- [The Morning Paper](https://blog.acolyer.org/)
+- [Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
 
 ### Book Summary 
 - [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
