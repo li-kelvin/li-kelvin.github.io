@@ -19,22 +19,18 @@ let kelvin = {
 }
 ```
 
-
-
-
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### What I live for!
+1. Family
+  - level 2 item
+  - level 2 item
+2. Friends
+  - level 2 item
+  - level 2 item
+  - level 2 item
+3. Supporters
+  - level 2 item
+  - level 2 item
+4. Fuck Everyone
 
 ###### Header 6
 
@@ -78,14 +74,6 @@ let kelvin = {
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
