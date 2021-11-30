@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Hi, I'm Kelvin Li! ![Cat](https://camo.githubusercontent.com/677c28f873078c7b9b53137bf32a695b9e9d8642c04c2525048fec71053d7305/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b425a32313279477a466178676b53494b572f67697068792e676966)
+# Hi, I'm Kelvin Li! <img src="https://camo.githubusercontent.com/677c28f873078c7b9b53137bf32a695b9e9d8642c04c2525048fec71053d7305/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b425a32313279477a466178676b53494b572f67697068792e676966" alt="drawing" width="200"/>
 
 Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University](https://www.mcmaster.ca/).
 
