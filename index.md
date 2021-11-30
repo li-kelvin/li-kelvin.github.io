@@ -28,7 +28,7 @@ let kelvin = {
 - if you cant change yourself, you must change the world
 - don't be a cunt and smile
 4. Myself <span style="color:GhostWhite">fuck everyone else</span>.
-- "trying to prove to my 17-year-old self that I can do creative things I thought weren't possible." -Virgil Abloh
+- "trying to prove to my 17-year-old self that I can do creative<br>things I thought weren't possible." -Virgil Abloh
 
 ### Academia/Projects
 - [Kobe Bryant Shot Selection](https://www.kaggle.com/likelvin/shot-selection)
