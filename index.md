@@ -55,11 +55,11 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [Matt Might](https://matt.might.net/articles/)
 
 ### Book Summary 
-- [Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  <span style="color:grey">some *grey* text</span>.
-- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)  <span style="color:grey">some *grey* text</span>.
-- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">some *grey* text</span>.
-- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">some *grey* text</span>.
-- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">some *grey* text</span>.
+- 01/28/2020:[Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  <span style="color:grey">*by Ryan Holiday*</span>.
+- 01/28/2020:[How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)  <span style="color:grey">*by Dale Carnegie*</span>.
+- 01/28/2020:[Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">*by Herman Hesse*</span>.
+- 01/28/2020:[The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
+- 01/28/2020:[The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">*by Robert Greene*</span>.
 
 ### Maybe Music?
 
