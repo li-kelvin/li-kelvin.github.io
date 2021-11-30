@@ -44,7 +44,7 @@ let kelvin = {
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
 - [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>.
 
-# :pray:
+<span class="emoji"> :pray: </span></p>
 Over the years, I met several people that left quite an impact on me and, in many cases, helped me along the way.
 
 I tried to summarize one learning from each.
