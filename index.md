@@ -16,26 +16,19 @@ let kelvin = {
   swag: Math.max()
 }
 ```
-
-### What I live for!
-1. People
-- family, friends, loved ones 
-- and those weird conversations you have on the bus
-2. Growth
-- through success, failure and everything in between
-- building a better world with data, never forgetting about the people
-3. Change
-- if you cant change yourself, you must change the world
-- don't be a cunt and smile
-4. Myself <span style="color:GhostWhite">fuck everyone else</span>.
-- "trying to prove to my 17-year-old self that I can do creative<br>things I thought weren't possible." -Virgil Abloh
-
 ### Academia/Projects
 - [Kobe Bryant Shot Selection](https://www.kaggle.com/likelvin/shot-selection)
 - [NBA Salary Predictor](https://www.kaggle.com/likelvin/nba-salary-prediction-w-regression-model)
 - [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
+
+### Blog Postings 
+- [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
+- [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
+- [Siddhartha](https://li-kelvin.github.io/blog/posts/siddhartha/)  <span style="color:grey">*by Herman Hesse*</span>.
+- [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
+- [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>. 
 
 ### Book Summary 
 - [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
@@ -46,7 +39,7 @@ let kelvin = {
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life. <br><br>  I tried to summarize one learning from each.</div>
-- Mr.Coleman - 
-- My Brother, Oliver Li
-- Jeffery Jiang
-- The Old People on their morning walk 
+- Mr.Coleman - learn through living
+- Oliver Li - getting work done > other stufff  
+- Jeffery Jiang - great humans are still just humans
+- The Old People on their morning walk - smiles change lives
