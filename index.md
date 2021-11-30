@@ -16,19 +16,17 @@ let kelvin = {
   swag: Math.max()
 }
 ```
-### Academia/Projects
-- [Kobe Bryant Shot Selection](https://www.kaggle.com/likelvin/shot-selection)
+### Projects
+- [Kobe Bryant Shot Visualizations](https://www.kaggle.com/likelvin/shot-selection)
 - [NBA Salary Predictor](https://www.kaggle.com/likelvin/nba-salary-prediction-w-regression-model)
-- [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
-- [The Morning Paper](https://blog.acolyer.org/)
-- [Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
+- [Arduino Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
 
-### Blog Postings 
+### Journal
 - [I'm wasting my life](https://li-kelvin.github.io/blog/posts/11-30-2021/)  <span style="color:grey">*11/30/2021*</span>.
-- [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
-- [Siddhartha](https://li-kelvin.github.io/blog/posts/siddhartha/)  <span style="color:grey">*by Herman Hesse*</span>.
-- [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
-- [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>. 
+
+### Academia/Blog 
+- [The Morning Paper](https://blog.acolyer.org/)
+- [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
 
 ### Book Summary 
 - [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
