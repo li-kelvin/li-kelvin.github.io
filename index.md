@@ -1,43 +1,22 @@
 ---
 layout: default
 ---
-# Hi, I'm Kelvin Li! ![Octocat](https://camo.githubusercontent.com/677c28f873078c7b9b53137bf32a695b9e9d8642c04c2525048fec71053d7305/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b425a32313279477a466178676b53494b572f67697068792e676966)
+# Hi, I'm Kelvin Li! ![Cat](https://camo.githubusercontent.com/677c28f873078c7b9b53137bf32a695b9e9d8642c04c2525048fec71053d7305/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b425a32313279477a466178676b53494b572f67697068792e676966)
+
+Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University](https://www.mcmaster.ca/).
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Some Fun Facts About Me
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+let jerry = {
+  pronouns: "he" | "him",
+  code: [Java, C/C++, Python, Javascript],
+  tools: [Spring Boot, Express, React, Kubernetes, Kafka, MongoDB],
+  
+  energy: "chillin",
+  swag: Math.max()
+}
 ```
 
 #### Header 4
