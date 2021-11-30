@@ -1,8 +1,8 @@
-title: Minimalist theme
+title: Kelvin's Corner 
 logo: /assets/img/logo.png
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+description: A little spot for me in this vast place called life.
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: []
 theme: jekyll-theme-minimalist
 plugins:
   - jekyll-sitemap
