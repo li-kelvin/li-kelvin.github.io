@@ -42,12 +42,12 @@ let kelvin = {
 - [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
 - [Siddhartha](https://li-kelvin.github.io/blog/posts/siddhartha/)  <span style="color:grey">*by Herman Hesse*</span>.
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
-- [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>.
+- [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>. 
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life.</div>
-<p>&nbsp;</p>
-I tried to summarize one learning from each.
+
+<div>I tried to summarize one learning from each.</div>
 - Mr.Coleman - 
 - My Brother, Oliver Li
 - Jeffery Jiang
