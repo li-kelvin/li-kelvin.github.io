@@ -18,17 +18,17 @@ let kelvin = {
 ```
 
 ### What I live for!
-1. Family
-- mom, dad, sister, brother + cat: you touch them, I'll kill you 
-- and to the bonds thicker then blood
-2. Competition 
-- humble in victory
-- curious in defeat
+1. People
+- family, friends, loved ones 
+- and those weird conversations you have on the bus
+2. Growth
+- through success, failure and everything in between
+- building a better world with data, never forgetting about the people
 3. Change
 - if you cant change yourself, you must change the world
 - don't be a cunt and smile
 4. Fuck Everyone  
-- everything for my 17 year old self
+- "I am always trying to prove to my 17-year-old self that I can do creative things I thought weren't possible." -Virgil Abloh
 
 ### Academia/Projects
 - [Kobe Bryant Shot Selection](https://www.kaggle.com/likelvin/shot-selection)
