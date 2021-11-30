@@ -45,8 +45,7 @@ let kelvin = {
 - [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>.
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
-<div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life.</div>
-
+<div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life.</div><p>&nbsp;</p>
 I tried to summarize one learning from each.
 - Mr.Coleman - 
 - My Brother, Oliver Li
