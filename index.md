@@ -55,11 +55,11 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [Matt Might](https://matt.might.net/articles/)
 
 ### Book Summary 
-- [Ego Is The Enemy](https: //www.cs.usfca.edu/~galles/visualization/Algorithms.html) <span style="color:grey">some *grey* text</span>.
-- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)
-- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)
-- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)
-- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)
+- [Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  <span style="color:grey">some *grey* text</span>.
+- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)  <span style="color:grey">some *grey* text</span>.
+- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">some *grey* text</span>.
+- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">some *grey* text</span>.
+- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">some *grey* text</span>.
 
 ### Maybe Music?
 
