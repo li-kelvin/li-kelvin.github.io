@@ -46,8 +46,8 @@ let kelvin = {
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life.</div>
-
-<p>I tried to summarize one learning from each.</p>
+<p>&nbsp;</p>
+I tried to summarize one learning from each.
 - Mr.Coleman - 
 - My Brother, Oliver Li
 - Jeffery Jiang
