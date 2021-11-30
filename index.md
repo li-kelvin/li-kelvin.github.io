@@ -28,7 +28,7 @@ let kelvin = {
 3. Supporters
   - level 2 item
   - level 2 item
-4. Fuck Everyone
+4. Fuck Everyone  
 
 ### News
 09/01/2021: Officially started my PhD.  
@@ -62,6 +62,7 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [Rotation of Sequences: Algorithms and Proofs](https://arxiv.org/pdf/1406.5453.pdf)
 
 ### Maybe Music?
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
