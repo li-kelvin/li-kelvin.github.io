@@ -44,7 +44,11 @@ let kelvin = {
 - [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
 - [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">*by Robert Greene*</span>.
 
-### Timeline
-11/29/2021: Official Launch of **Kelvin's Krap: A blog about Kelvin**
-06/03/2022: WAKO National Championship
-
+# :pray:
+Over the years, I met several people that left quite an impact on me and, in many cases, helped me along the way.
+I tried to summarize one learning from each.
+- [Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  <span style="color:grey">*by Ryan Holiday*</span>.
+- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)  <span style="color:grey">*by Dale Carnegie*</span>.
+- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">*by Herman Hesse*</span>.
+- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
+- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">*by Robert Greene*</span>.
