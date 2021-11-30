@@ -54,12 +54,12 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [the morning paper](https://blog.acolyer.org/)
 - [Matt Might](https://matt.might.net/articles/)
 
-### Others
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/)
-- [P4 Language Specification](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)
-- [How To Write Shared Libraries](https://www.akkadia.org/drepper/dsohowto.pdf)
-- [Rotation of Sequences: Algorithms and Proofs](https://arxiv.org/pdf/1406.5453.pdf)
+### Book Summary 
+- [Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)
+- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)
+- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)
+- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)
 
 ### Maybe Music?
 
