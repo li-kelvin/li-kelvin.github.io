@@ -6,7 +6,6 @@ layout: default
 Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University](https://www.mcmaster.ca/).
 
 ### Some Fun Facts About Me
-
 ```ruby
 let kelvin = {
   pronouns: "he" | "him",
@@ -17,18 +16,19 @@ let kelvin = {
   swag: Math.max()
 }
 ```
+
 ### What I live for!
 1. Family
-- level 2 item
-- level 2 item
-2. Friends
-- level 2 item
-- level 2 item
-- level 2 item
-3. Supporters
-- level 2 item
-- level 2 item
+- mom, dad, sister, brother + cat: you touch them, I'll kill you 
+- and to the bonds thicker then blood
+2. Competition 
+- humble in victory
+- curious in defeat
+3. Change
+- if you cant change yourself, you must change the world
+- don't be a cunt and smile
 4. Fuck Everyone  
+- everything for my 17 year old self
 
 ### Academia
 - [Systems Research Artifacts](https://sysartifacts.github.io/)
@@ -46,9 +46,9 @@ let kelvin = {
 
 # :pray:
 Over the years, I met several people that left quite an impact on me and, in many cases, helped me along the way.
+
 I tried to summarize one learning from each.
-- [Ego Is The Enemy](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  <span style="color:grey">*by Ryan Holiday*</span>.
-- [How to Win Friends and Influence People](https://www.cs.utexas.edu/users/flame/laff/alaff/)  <span style="color:grey">*by Dale Carnegie*</span>.
-- [Siddhartha](https://p4lang.github.io/p4-spec/docs/P4-16-v1.2.1.html)  <span style="color:grey">*by Herman Hesse*</span>.
-- [The Communist Manifesto](https://www.akkadia.org/drepper/dsohowto.pdf)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
-- [The 48 Laws of Power](https://arxiv.org/pdf/1406.5453.pdf)  <span style="color:grey">*by Robert Greene*</span>.
+- Mr.Coleman - 
+- My Brother, Oliver Li
+- Jeffery Jiang
+- The Old People on their morning walk 
