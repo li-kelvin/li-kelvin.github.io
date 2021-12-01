@@ -22,7 +22,8 @@ let kelvin = {
 - [Arduino Sumo Bot](https://github.com/li-kelvin/arduino-sumo-robot)
 
 ### Journal
-- [I'm wasting my life](https://li-kelvin.github.io/blog/posts/11-30-2021/)  <span style="color:grey">*11/30/2021*</span>.
+- [What's the point of living?](https://li-kelvin.github.io/blog/posts/12-01-2021/)  <span style="color:grey">*12/01/2021*</span>.
+- [I'm wasting my life.](https://li-kelvin.github.io/blog/posts/11-30-2021/)  <span style="color:grey">*11/30/2021*</span>.
 
 ### Academia/Blog 
 - [The Morning Paper](https://blog.acolyer.org/)
