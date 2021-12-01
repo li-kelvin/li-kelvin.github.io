@@ -34,7 +34,7 @@ let kelvin = {
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life. <br><br>  I tried to summarize one learning from each.</div>
-- Mr.Coleman - learn through living
+- Mr.Coleman - if someone punches you, punch them back
 - Oliver Li - getting work done > other stufff  
 - Jeffery Jiang - great humans are still just humans
 - The Old People on their morning walk - smiles change lives
