@@ -29,7 +29,7 @@ let kelvin = {
 - [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
   
 ### Book Summary 
-- [The Subtle Art Of Not Give A Fuck](https://li-kelvin.github.io/blog/posts/the-subtle-are-of-not-giving-a-fuck/)  <span style="color:grey">*by Mark Manson*</span>. 
+- [The Subtle Art Of Not Give A Fuck](https://li-kelvin.github.io/blog/posts/the-subtle-art-of-not-giving-a-fuck/)  <span style="color:grey">*by Mark Manson*</span>. 
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
