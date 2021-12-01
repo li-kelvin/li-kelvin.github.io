@@ -31,6 +31,7 @@ let kelvin = {
 ### Book Summary 
 - [The Subtle Art Of Not Give A Fuck](https://li-kelvin.github.io/blog/posts/the-subtle-art-of-not-giving-a-fuck/)  <span style="color:grey">*by Mark Manson*</span>. 
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
+- [Animal Farm](https://li-kelvin.github.io/blog/posts/animal-farm/)  <span style="color:grey">*by George Orwell*</span>.
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life. <br><br>  I tried to summarize one learning from each.</div>
