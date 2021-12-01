@@ -9,8 +9,8 @@ Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University]
 ```ruby
 let kelvin = {
   pronouns: "he" | "him",
-  code: [Python, R, Java, PHP, C/C++],
-  tools: [HTML/CSS, JavaScript, React, Express, MongoDB, AutoCAD],
+  code: [Python, Ruby, SQL, C/C++, Java],
+  tools: [HTML/CSS, JavaScript, R, AutoCAD, MongoDB],
   
   energy: "chillin",
   swag: Math.max()
@@ -27,13 +27,10 @@ let kelvin = {
 ### Academia/Blog 
 - [The Morning Paper](https://blog.acolyer.org/)
 - [Most Academic Paper](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
-
+  
 ### Book Summary 
-- [Ego Is The Enemy](https://li-kelvin.github.io/blog/posts/ego-is-the-enemy/)  <span style="color:grey">*by Ryan Holiday*</span>.
-- [How to Win Friends and Influence People](https://li-kelvin.github.io/blog/posts/how-to-win-friends-and-influence-people)  <span style="color:grey">*by Dale Carnegie*</span>.
-- [Siddhartha](https://li-kelvin.github.io/blog/posts/siddhartha/)  <span style="color:grey">*by Herman Hesse*</span>.
+- [The Subtle Art Of Not Give A Fuck](https://li-kelvin.github.io/blog/posts/the-subtle-are-of-not-giving-a-fuck/)  <span style="color:grey">*by Mark Manson*</span>. 
 - [The Communist Manifesto](https://li-kelvin.github.io/blog/posts/the-communist-manifesto/)  <span style="color:grey">*by Karl Marx and Friedrich Engels*</span>.
-- [The 48 Laws of Power](https://li-kelvin.github.io/blog/posts/the-48-laws-of-power/)  <span style="color:grey">*by Robert Greene*</span>. 
 
 <div style="font-size:3rem;width:100%;text-align:center;">🙏</div>
 <div style="text-aligh:center;">Over the years, I have met many people that left a positive impact on me. <br> Thanks for stumbling into my life. <br><br>  I tried to summarize one learning from each.</div>
