@@ -18,7 +18,7 @@ layout: default
 </section>
 
 ## About
-<p>I'm an engineering student at McMaster University (he/him) who likes building things end-to-end — from data pipelines to little robots. Day to day my toolkit is Python, Ruby, SQL, C/C++, and Java, with HTML/CSS, JavaScript, R, AutoCAD, and MongoDB in the mix depending on the project. Most of what's below came out of just trying to get a little better every day.</p>
+<p>I'm a competitive, data-driven problem solver (he/him) who likes turning insights into real-world impact. Most of my work sits at the intersection of technical support, data, and internal tooling — resolving complex issues, documenting repeatable processes, and helping teams deliver faster, more consistent support. That's meant SQL-driven root cause analysis, cross-functional client launches, and working closely with Support, Ops, and Customer Success across both MSP and SaaS environments. Outside of work, I put the same discipline into coaching 300+ athletes — the best teams, on and off the court, run on communication, resilience, and a system that scales.</p>
 
 ## Journal
 <p class="section-desc">Every day, colored by how it went.</p>
