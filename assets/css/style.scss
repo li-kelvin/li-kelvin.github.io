@@ -415,6 +415,10 @@ a.row-list-item:hover .row-chevron {
   background: hsla(0, 0%, 0%, 0.6);
 }
 
+.journal-debrief-overlay[hidden] {
+  display: none;
+}
+
 .journal-debrief-modal {
   position: relative;
   width: 100%;
@@ -519,6 +523,10 @@ a.row-list-item:hover .row-chevron {
   display: flex;
   flex-direction: column;
   gap: 14px;
+}
+
+.journal-list[hidden] {
+  display: none;
 }
 
 .journal-entry {
