@@ -23,28 +23,37 @@ layout: default
 ## Journal
 <p class="section-desc">Every day, colored by how it went.</p>
 
-<div class="heatmap-card">
-  <div class="heatmap-scroll">
-    <div class="heatmap-inner">
-      <div id="heatmap-months" class="heatmap-months"></div>
-      <div class="heatmap-row">
-        <div id="heatmap-daylabels" class="heatmap-daylabels"></div>
-        <div id="heatmap-grid" class="heatmap-grid"></div>
+<div class="journal-view-toggle" role="tablist">
+  <button type="button" class="journal-toggle-btn active" id="journal-toggle-calendar" role="tab" aria-selected="true">Calendar</button>
+  <button type="button" class="journal-toggle-btn" id="journal-toggle-insights" role="tab" aria-selected="false">Day Insight</button>
+</div>
+
+<div id="journal-view-calendar">
+  <div class="heatmap-card">
+    <div id="heatmap-scroll" class="heatmap-scroll">
+      <div class="heatmap-inner">
+        <div id="heatmap-months" class="heatmap-months"></div>
+        <div class="heatmap-row">
+          <div id="heatmap-daylabels" class="heatmap-daylabels"></div>
+          <div id="heatmap-grid" class="heatmap-grid"></div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="heatmap-footer">
-    <span class="heatmap-legend-label">Rough</span>
-    <div class="heatmap-legend">
-      <span class="heatmap-cell tier-0"></span>
-      <span class="heatmap-cell tier-1"></span>
-      <span class="heatmap-cell tier-2"></span>
-      <span class="heatmap-cell tier-3"></span>
-      <span class="heatmap-cell tier-4"></span>
+    <div class="heatmap-footer">
+      <span class="heatmap-legend-label">Rough</span>
+      <div class="heatmap-legend">
+        <span class="heatmap-cell tier-0"></span>
+        <span class="heatmap-cell tier-1"></span>
+        <span class="heatmap-cell tier-2"></span>
+        <span class="heatmap-cell tier-3"></span>
+        <span class="heatmap-cell tier-4"></span>
+      </div>
+      <span class="heatmap-legend-label">Great</span>
     </div>
-    <span class="heatmap-legend-label">Great</span>
   </div>
 </div>
+
+<div id="journal-view-insights" class="journal-insights" hidden></div>
 
 <div id="journal-debrief-overlay" class="journal-debrief-overlay" hidden>
   <div class="journal-debrief-modal">
@@ -195,6 +204,87 @@ layout: default
 
     cursor.setDate(cursor.getDate() + 1);
   }
+
+  // Always show the most recent side of the calendar
+  var heatmapScroll = document.getElementById('heatmap-scroll');
+  heatmapScroll.scrollLeft = heatmapScroll.scrollWidth;
+
+  // Day Insight view
+  var calendarView = document.getElementById('journal-view-calendar');
+  var insightsView = document.getElementById('journal-view-insights');
+  var toggleCalendarBtn = document.getElementById('journal-toggle-calendar');
+  var toggleInsightsBtn = document.getElementById('journal-toggle-insights');
+
+  function renderInsights() {
+    if (!sortedDayKeys.length) {
+      insightsView.innerHTML =
+        '<div class="journal-lock">' +
+          '<i class="fas fa-chart-simple"></i>' +
+          '<p class="journal-lock-text">No entries yet — insights show up once the first day is logged.</p>' +
+        '</div>';
+      return;
+    }
+
+    var allEntries = [];
+    sortedDayKeys.forEach(function (k) { allEntries = allEntries.concat(dayEntries[k]); });
+
+    var avgSpeaking = Math.round(allEntries.reduce(function (a, e) { return a + e.speaking_score; }, 0) / allEntries.length);
+    var avgEngagement = Math.round(allEntries.reduce(function (a, e) { return a + e.engagement_score; }, 0) / allEntries.length);
+
+    var ratedKeys = sortedDayKeys.filter(function (k) { return dayRatingFor(dayEntries[k]) !== null; });
+    var avgRating = ratedKeys.length
+      ? (ratedKeys.reduce(function (a, k) { return a + dayRatingFor(dayEntries[k]); }, 0) / ratedKeys.length).toFixed(1)
+      : '—';
+
+    var bestKey = sortedDayKeys.reduce(function (best, k) {
+      var score = dayRatingFor(dayEntries[k]) !== null ? dayRatingFor(dayEntries[k]) * 10 : avgFor(dayEntries[k]);
+      var bestScore = dayRatingFor(dayEntries[best]) !== null ? dayRatingFor(dayEntries[best]) * 10 : avgFor(dayEntries[best]);
+      return score > bestScore ? k : best;
+    }, sortedDayKeys[0]);
+    var bestRating = dayRatingFor(dayEntries[bestKey]);
+
+    var streak = 0;
+    var streakCursor = new Date(sortedDayKeys[sortedDayKeys.length - 1] + 'T00:00:00');
+    while (dayEntries[toKey(streakCursor)]) {
+      streak++;
+      streakCursor.setDate(streakCursor.getDate() - 1);
+    }
+
+    var tiles = [
+      [String(sortedDayKeys.length), 'Days logged'],
+      [String(streak), 'Current streak'],
+      [avgRating === '—' ? '—' : avgRating + '/10', 'Avg day rating'],
+      [avgSpeaking + '/100', 'Avg speaking'],
+      [avgEngagement + '/100', 'Avg engagement'],
+      ['Day ' + dayNumberFor(bestKey) + (bestRating !== null ? ' · ' + bestRating + '/10' : ''), 'Best day']
+    ];
+
+    insightsView.innerHTML = tiles.map(function (t) {
+      return '<div class="insight-tile"><span class="insight-value">' + t[0] + '</span><span class="insight-label">' + t[1] + '</span></div>';
+    }).join('');
+  }
+
+  function showCalendar() {
+    calendarView.hidden = false;
+    insightsView.hidden = true;
+    toggleCalendarBtn.classList.add('active');
+    toggleCalendarBtn.setAttribute('aria-selected', 'true');
+    toggleInsightsBtn.classList.remove('active');
+    toggleInsightsBtn.setAttribute('aria-selected', 'false');
+  }
+
+  function showInsights() {
+    renderInsights();
+    calendarView.hidden = true;
+    insightsView.hidden = false;
+    toggleInsightsBtn.classList.add('active');
+    toggleInsightsBtn.setAttribute('aria-selected', 'true');
+    toggleCalendarBtn.classList.remove('active');
+    toggleCalendarBtn.setAttribute('aria-selected', 'false');
+  }
+
+  toggleCalendarBtn.addEventListener('click', showCalendar);
+  toggleInsightsBtn.addEventListener('click', showInsights);
 
   // Click-to-open debrief, PIN-gated
   var overlay = document.getElementById('journal-debrief-overlay');
