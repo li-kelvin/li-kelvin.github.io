@@ -7,3 +7,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
+collections:
+  journal:
+    output: false
