@@ -94,10 +94,13 @@ span.emoji {
   --space-page-x: clamp(1rem, 0.6rem + 2vw, 2rem);
   --space-page-top: clamp(5.5rem, 4.6rem + 3.6vw, 7rem);
 
-  --fs-nav-link: clamp(12.5px, 12px + 0.3vw, 14px);
-  --fs-h1: clamp(1.6rem, 1.4rem + 1vw, 2rem);
+  --fs-nav-link: clamp(13px, 12px + 0.4vw, 16px);
+  --fs-h1: clamp(2rem, 1.7rem + 1.5vw, 2.75rem);
   --fs-h2: clamp(1.2rem, 1.1rem + 0.5vw, 1.4rem);
   --fs-h3: clamp(0.95rem, 0.9rem + 0.25vw, 1.05rem);
+  --fs-bio: clamp(1rem, 0.95rem + 0.2vw, 1.1rem);
+  --size-profile-photo: clamp(120px, 100px + 8vw, 168px);
+  --size-nav-brand: clamp(30px, 26px + 2vw, 40px);
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -140,27 +143,31 @@ body {
   z-index: 100;
   display: flex;
   align-items: center;
-  gap: var(--space-lg);
-  padding: var(--space-xs) var(--space-md);
+  gap: var(--space-md);
+  padding: var(--space-xs) var(--space-lg);
   background: var(--nav-bg);
   -webkit-backdrop-filter: blur(14px);
   backdrop-filter: blur(14px);
   border: 1px solid var(--surface-border);
   border-radius: 999px;
   box-shadow: 0 8px 30px hsla(0, 0%, 0%, 0.12);
+  max-width: calc(100vw - 24px);
+  overflow-x: auto;
 }
 
 .floatnav-brand img {
   display: block;
-  width: 28px;
-  height: 28px;
+  width: var(--size-nav-brand);
+  height: var(--size-nav-brand);
   border-radius: 50%;
   object-fit: cover;
+  flex-shrink: 0;
 }
 
 .floatnav-links {
   display: flex;
   gap: var(--space-sm);
+  flex-shrink: 0;
 }
 
 .floatnav-links a {
@@ -168,6 +175,7 @@ body {
   font-weight: 600;
   color: var(--clr-text);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .floatnav-links a:hover {
@@ -183,9 +191,9 @@ body {
 
 .profile-photo {
   flex-shrink: 0;
-  width: 120px;
-  height: 120px;
-  border-radius: 16px;
+  width: var(--size-profile-photo);
+  height: var(--size-profile-photo);
+  border-radius: 20px;
   object-fit: cover;
 }
 
@@ -199,6 +207,7 @@ body {
 .profile-bio {
   margin: 0 0 var(--space-md);
   color: var(--clr-text);
+  font-size: var(--fs-bio);
 }
 
 .profile-social {
@@ -210,8 +219,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
+  font-size: 1.1rem;
   border: 1px solid var(--surface-border);
   border-radius: 50%;
   color: var(--clr-text);
