@@ -155,7 +155,7 @@ layout: default
 
   var today = new Date();
   var start = new Date(today);
-  start.setDate(start.getDate() - 371);
+  start.setDate(start.getDate() - 99);
   start.setDate(start.getDate() - start.getDay());
 
   var monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
